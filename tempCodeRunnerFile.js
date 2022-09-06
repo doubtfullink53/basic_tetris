@@ -1,0 +1,1 @@
+coreDisplay.innerHTML = score;
